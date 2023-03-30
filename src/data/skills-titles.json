@@ -1,0 +1,46 @@
+[
+  {
+    "Section-Title": "Immboilization",
+    "Section-Image": "/Images/immobil.png",
+    "First-Skill": "Cervical Spine Immboilization",
+    "Second-Skill": "Fracture Immboilization",
+    "Third-Skill": "Pelvic Binding",
+    "Fourth-Skill": "Snake Bite Management",
+    "Fifth-Skill": "Log Roll",
+    "Sixth-Skill": "Full Spinal Immboilization",
+    "Seventh-Skill": "Position of the Pregnant Trauma Patient"
+  },
+  {
+    "Section-Title": "Wound Management",
+    "Section-Image": "/Images/wound.png",
+    "First-Skill": "Cervical Spine Immboilization",
+    "Second-Skill": "Fracture Immboilization",
+    "Third-Skill": "Pelvic Binding",
+    "Fourth-Skill": "Snake Bite Management",
+    "Fifth-Skill": "Log Roll",
+    "Sixth-Skill": "Full Spinal Immboilization",
+    "Seventh-Skill": "Position of the Pregnant Trauma Patient"
+  },
+  {
+    "Section-Title": "Airway",
+    "Section-Image": "/Images/airway.png",
+    "First-Skill": "Cervical Spine Immboilization",
+    "Second-Skill": "Fracture Immboilization",
+    "Third-Skill": "Pelvic Binding",
+    "Fourth-Skill": "Snake Bite Management",
+    "Fifth-Skill": "Log Roll",
+    "Sixth-Skill": "Full Spinal Immboilization",
+    "Seventh-Skill": "Position of the Pregnant Trauma Patient"
+  },
+  {
+    "Section-Title": "Advanced Skills",
+    "Section-Image": "/Images/advanced.png",
+    "First-Skill": "Cervical Spine Immboilization",
+    "Second-Skill": "Fracture Immboilization",
+    "Third-Skill": "Pelvic Binding",
+    "Fourth-Skill": "Snake Bite Management",
+    "Fifth-Skill": "Log Roll",
+    "Sixth-Skill": "Full Spinal Immboilization",
+    "Seventh-Skill": "Position of the Pregnant Trauma Patient"
+  }
+]

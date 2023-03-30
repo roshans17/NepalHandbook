@@ -1,0 +1,80 @@
+.App {
+  background-color: white;
+  text-rendering: optimizeSpeed;
+  display: flex;
+  flex-direction: column;
+}
+html,
+body,
+#root,
+.App {
+  height: 100%;
+  overflow-x: hidden;
+}
+
+.skill-container {
+  display: flex;
+  height: fit-content;
+  flex-wrap: wrap;
+  justify-content: center;
+  border: 2px dotted #a42426;
+  overflow: auto;
+}
+.skill_item {
+  width: 30%;
+  height: 30%;
+  margin: 3rem;
+  border-radius: 15px 50px 30px;
+  background-color: #a42426;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 4rem;
+}
+.skill-image {
+  max-width: 100%;
+  margin-bottom: 1rem;
+}
+img {
+  width: 400px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50px 50px 50px 50px;
+}
+.title {
+  color: white;
+}
+
+a {
+  background-color: transparent;
+  transition: 0.3s;
+  text-decoration: none;
+}
+a {
+  transition: all 0.2s ease-in-out;
+}
+a:hover {
+  transform: scale(1.1);
+}
+
+@media (max-width: 1200px) {
+  img {
+    width: 300px;
+    height: 200px;
+  }
+}
+
+@media (max-width: 900px) {
+  img {
+    width: 200px;
+    height: 200px;
+  }
+}
+
+@media (max-width: 550px) {
+  img {
+    width: 130px;
+    height: 150px;
+  }
+}
